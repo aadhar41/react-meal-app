@@ -52,7 +52,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/react-meal-app.git
+   git clone https://github.com/aadhar41/react-meal-app.git
    cd react-meal-app
    ```
 
