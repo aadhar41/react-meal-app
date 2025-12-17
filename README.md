@@ -291,7 +291,7 @@ Found a bug or have a feature request? Open an **issue** on GitHub with:
 
 ### **Where to Get Help**
 - **GitHub Discussions**: Ask questions or share ideas.
-- **Twitter**: Follow [@your_handle](https://twitter.com/your_handle) for updates.
+- **Twitter**: Follow [@your_handle](https://x.com/aadhar_gaur) for updates.
 - **Community**: Join our [React Meal App Discord](https://discord.gg/your-invite-link) for discussions.
 
 ### **FAQ**
