@@ -9,6 +9,12 @@
 
 **React Meal App** is a modern, responsive meal discovery application that allows users to explore a variety of delicious recipes from around the world. Built with **React.js**, this app fetches meal data from **TheMealDB API** and presents it in an intuitive, visually appealing interface.
 
+![React Meal App Screenshot](public/react_meal_app.png)
+
+> [!IMPORTANT]
+> **Node.js v17+ Compatibility**
+> This project uses an older version of `react-scripts`. If you are using Node.js v17 or later, you may encounter the `ERR_OSSL_EVP_UNSUPPORTED` error. We have integrated `cross-env` to resolve this automatically.
+
 ### **Key Features**
 * **Meal Discovery** – Browse meals by category, ingredients, or search by name
 * **Responsive Design** – Works seamlessly on mobile, tablet, and desktop
