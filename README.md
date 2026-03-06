@@ -58,7 +58,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/react-meal-app.git
+   git clone https://github.com/aadhar41/react-meal-app.git
    cd react-meal-app
    ```
 
@@ -297,7 +297,7 @@ Found a bug or have a feature request? Open an **issue** on GitHub with:
 
 ### **Where to Get Help**
 - **GitHub Discussions**: Ask questions or share ideas.
-- **Twitter**: Follow [@your_handle](https://twitter.com/your_handle) for updates.
+- **Twitter**: Follow [@your_handle](https://x.com/aadhar_gaur) for updates.
 - **Community**: Join our [React Meal App Discord](https://discord.gg/your-invite-link) for discussions.
 
 ### **FAQ**
