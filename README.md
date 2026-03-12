@@ -1,15 +1,23 @@
-
 # 🍽️ React Meal App
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/aadhar41/react-meal-app/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
 *A visually appealing meal discovery app built with React and TheMealDB API*
 
 ---
+---
+
+## 📸 **Screenshots**
+
+| Home Page |
+| :---: |
+| ![React Meal App Screenshot](public/react_meal_app.png) |
+
+---
 
 ## ✨ **Overview**
-
-**React Meal App** is a modern, responsive meal discovery application that allows users to explore a variety of delicious recipes from around the world. Built with **React.js**, this app fetches meal data from **TheMealDB API** and presents it in an intuitive, visually appealing interface.
-
-![React Meal App Screenshot](public/react_meal_app.png)
 
 > [!IMPORTANT]
 > **Node.js v17+ Compatibility**
@@ -33,12 +41,12 @@
 ## 🛠️ **Tech Stack**
 
 | Category          | Technologies Used                          |
-|-------------------|--------------------------------------------|
+| ----------------- | ------------------------------------------ |
 | **Frontend**      | React.js, Bootstrap 4, Axios, CSS3         |
 | **State Management** | React Hooks (`useState`, `useEffect`)      |
 | **Testing**       | Jest, React Testing Library                |
 | **Build Tool**    | Create React App (CRA)                     |
-| **API**          | TheMealDB API (JSON)                       |
+| **API**           | TheMealDB API (JSON)                       |
 
 ### **System Requirements**
 - Node.js (v14.x or higher)
@@ -231,7 +239,7 @@ No environment variables are required for this project, but you can easily exten
 
 ## 🤝 **Contributing**
 
-We welcome contributions from the community! Here’s how you can help:
+We welcome contributions from the community! Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### **How to Contribute**
 1. **Fork the repository** and clone it locally.
